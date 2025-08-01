@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏡 DreamHouse App — Salesforce DX Project
 
 Este projeto faz parte da badge **"Get Started with Salesforce Development"** do Trailhead. Aqui você encontrará a estrutura inicial de um app Salesforce usando **Salesforce DX**, pronto para ser customizado e expandido.
